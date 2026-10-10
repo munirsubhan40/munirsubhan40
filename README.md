@@ -1,16 +1,1 @@
-# Hi, I'm Muhammad Subhan 👋
-💻 Web Developer from Lahore, Pakistan
-🌱 Exploring digital marketing, Meta Ads & Shopify
-
-## 🚀 Live Projects
-- [Apexcify-Technologys-project](https://munirsubhan40.github.io/Apexcify-Technologys-project/) — Company website (HTML/CSS)
-- [Architectural-project](https://munirsubhan40.github.io/Architectural-project/) — Architecture firm landing page
-- [My-portfolio](https://munirsubhan40.github.io/My-portfolio/) — Personal portfolio
-- [Subhan_resturant](https://munirsubhan40.github.io/Subhan_resturant/) — Restaurant website
-- [calculator](https://munirsubhan40.github.io/calculator/) — Calculator app
-- [Tempreture-convertor](https://munirsubhan40.github.io/Tempreture-convertor/) — Temperature converter
-- [project](https://munirsubhan40.github.io/project/) — Portfolio website
-- [WEB](https://munirsubhan40.github.io/WEB/) — Multi-page web project
-
-## 📫 Connect with me
-- GitHub: github.com/munirsubhan40
+IyBIaSwgSSdtIE11aGFtbWFkIFN1YmhhbiDwn5GLCvCfk4ggRGlnaXRhbCBNYXJrZXRlciBmcm9tIExhaG9yZSwgUGFraXN0YW4K8J+OryBGb2N1czogTWV0YSBBZHMsIFNob3BpZnkgJiBQZXJmb3JtYW5jZSBNYXJrZXRpbmcK8J+SuyBCYWNrZ3JvdW5kIGluIHdlYiBkZXZlbG9wbWVudCAoSFRNTCwgQ1NTLCBKYXZhU2NyaXB0KQoKIyMg8J+agCBMaXZlIFByb2plY3RzCi0gW1BvcnRmb2xpb10oaHR0cHM6Ly9tdW5pcnN1YmhhbjQwLmdpdGh1Yi5pby9wb3J0Zm9saW8vKSDigJQgTXkgcHJvZmVzc2lvbmFsIHBvcnRmb2xpbyAoRGlnaXRhbCBNYXJrZXRpbmcsIE1ldGEgQWRzICYgU2hvcGlmeSkKLSBbQXBleGNpZnktVGVjaG5vbG9neXMtcHJvamVjdF0oaHR0cHM6Ly9tdW5pcnN1YmhhbjQwLmdpdGh1Yi5pby9BcGV4Y2lmeS1UZWNobm9sb2d5cy1wcm9qZWN0Lykg4oCUIENvbXBhbnkgd2Vic2l0ZSAoSFRNTC9DU1MpCi0gW0FyY2hpdGVjdHVyYWwtcHJvamVjdF0oaHR0cHM6Ly9tdW5pcnN1YmhhbjQwLmdpdGh1Yi5pby9BcmNoaXRlY3R1cmFsLXByb2plY3QvKSDigJQgQXJjaGl0ZWN0dXJlIGZpcm0gbGFuZGluZyBwYWdlCi0gW1N1Ymhhbl9yZXN0dXJhbnRdKGh0dHBzOi8vbXVuaXJzdWJoYW40MC5naXRodWIuaW8vU3ViaGFuX3Jlc3R1cmFudC8pIOKAlCBSZXN0YXVyYW50IHdlYnNpdGUKLSBbY2FsY3VsYXRvcl0oaHR0cHM6Ly9tdW5pcnN1YmhhbjQwLmdpdGh1Yi5pby9jYWxjdWxhdG9yLykg4oCUIENhbGN1bGF0b3IgYXBwCi0gW1RlbXByZXR1cmUtY29udmVydG9yXShodHRwczovL211bmlyc3ViaGFuNDAuZ2l0aHViLmlvL1RlbXByZXR1cmUtY29udmVydG9yLykg4oCUIFRlbXBlcmF0dXJlIGNvbnZlcnRlcgotIFtwcm9qZWN0XShodHRwczovL211bmlyc3ViaGFuNDAuZ2l0aHViLmlvL3Byb2plY3QvKSDigJQgUG9ydGZvbGlvIHdlYnNpdGUKLSBbV0VCXShodHRwczovL211bmlyc3ViaGFuNDAuZ2l0aHViLmlvL1dFQi8pIOKAlCBNdWx0aS1wYWdlIHdlYiBwcm9qZWN0CgojIyDwn5OrIENvbm5lY3Qgd2l0aCBtZQotIEdpdEh1YjogZ2l0aHViLmNvbS9tdW5pcnN1YmhhbjQwCg==
