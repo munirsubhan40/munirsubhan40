@@ -4,7 +4,7 @@
 💻 Background in web development (HTML, CSS, JavaScript)
 
 ## 🚀 Live Projects
-- [Portfolio](https://munirsubhan40.github.io/portfolio/) — My professional portfolio (Digital Marketing, Meta Ads & Shopify)
+- [My-portfolio](https://munirsubhan40.github.io/My-portfolio/) — My professional portfolio (Digital Marketing, Meta Ads & Shopify)
 - [calculator](https://munirsubhan40.github.io/calculator/) — Calculator app
 - [Tempreture-convertor](https://munirsubhan40.github.io/Tempreture-convertor/) — Temperature converter
 - [project](https://munirsubhan40.github.io/project/) — Restaurant website
